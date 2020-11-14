@@ -6,4 +6,4 @@ In project Folder
 dotnet run --urls="http://*:7000" --ip="127.0.0.1" --port=7000
 
 
-sm a 
+sm a what are you doing
